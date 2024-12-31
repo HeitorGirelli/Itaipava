@@ -4,4 +4,4 @@ main
 
 
 hello
-merge3 conflict attempt
+hi merge3 conflict attempt
